@@ -1,0 +1,33 @@
+body{
+background-color: black;
+font-family: "Lovelo";
+}
+
+.st0{
+	fill:none;
+	stroke:url(#SVGID_1_);
+	stroke-width: 20;
+	stroke-miterlimit: 10;
+}
+
+svg{
+	margin: 0 10%;
+}
+
+div{
+	margin: 2% 10%;
+}
+
+div p{
+	margin: 0 auto;
+	font-size: 7em;
+	color: white;
+}
+
+a{
+	color: white;
+}
+
+.top{
+	font-size: 3em;
+}
