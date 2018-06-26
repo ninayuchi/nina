@@ -28,11 +28,14 @@ body{
 	color: black;
 }
 
-.image{
+/*BODY*/
+
+.image, .textbox{
 	display: inline-block;
 	margin-top: 8%;
 	margin-left: 4%;
 	position: absolute;
+	cursor: pointer;
 }
 
 .image img{
@@ -45,3 +48,17 @@ body{
 	z-index: 100;
 }
 
+.text{
+	background-color: lightblue;
+	width: 50%;
+	cursor: pointer;
+}
+
+.textbox{
+	background-color: lightblue;
+	width: 25em;
+}
+
+#tub{
+	margin-top: 30%;
+}
