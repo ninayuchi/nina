@@ -2,7 +2,7 @@ $(document).ready(function() {
     $(".image").draggable();
     $(".textbox").draggable();
  });
- $(function() {
+ $(document).ready(function() {
     $(".ui-widget-content" ).resizable({
       aspectRatio: 1/1
     });
