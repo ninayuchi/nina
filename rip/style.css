@@ -1,0 +1,36 @@
+body{
+	display: inline-block;
+	color: white;
+}
+
+#home{
+	height: 100vh;
+	width: 100vw;
+	background-color: red;
+}
+
+#design{
+	height: 100vh;
+	width: 100vw;
+	background-color: blue;
+}
+
+#fineart{
+	height: 100vh;
+	width: 100vw;
+	background-color: yellow;
+}
+
+#footer{
+	height: 7vh;
+	width: 100vw;
+	background-color: green;
+}
+
+p{
+	display: inline-block;
+}
+
+a{
+	text-decoration: none;
+}
